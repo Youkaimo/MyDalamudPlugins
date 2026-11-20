@@ -6,7 +6,7 @@
         "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
         "InternalName": "AnoMech",
         "AssemblyVersion": "0.5.1.0",
-        "RepoUrl": "https://github.com/anomek/AnoMech",
+        "RepoUrl": "https://github.com/Youkaimo/AnoTest3",
         "ApplicableVersion": "any",
         "Tags": [
             "top",
@@ -21,13 +21,13 @@
         ],
         "DalamudApiLevel": 15,
         "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Youkaimo/AnoTest3/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
-        "DownloadCount": 6561,
-        "LastUpdate": "1792213775"
+        "DownloadLinkTesting": "https://github.com/Youkaimo/AnoTest3/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Youkaimo/AnoTest3/releases/latest/download/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1795198372"
     },
     {
         "Author": "Anomek",
@@ -84,7 +84,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
-        "DownloadCount": 2984,
+        "DownloadCount": 2985,
         "LastUpdate": "1782586241"
     }
 ]
