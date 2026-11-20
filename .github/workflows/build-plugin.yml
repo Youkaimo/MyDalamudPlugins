@@ -1,4 +1,4 @@
-# Place in: anomek/MyDalamudPlugins  ->  .github/workflows/build-plugin.yml
+# Place in: Youkaimo/MyDalamudPlugins  ->  .github/workflows/build-plugin.yml
 # Reusable build + version-bump + release (with PR+commit changelog) workflow,
 # shared by every plugin repo.
 name: Build Plugin
@@ -31,7 +31,7 @@ on:
         default: ''
     secrets:
       PAT:
-        description: Personal access token with write access to anomek/MyDalamudPlugins
+        description: Personal access token with write access to Youkaimo/MyDalamudPlugins
         required: true
 
 env:
@@ -150,7 +150,7 @@ jobs:
       - name: Checkout plugin repository (MyDalamudPlugins)
         uses: actions/checkout@v5
         with:
-          repository: anomek/MyDalamudPlugins
+          repository: Youkaimo/MyDalamudPlugins
           token: ${{ secrets.PAT }}
           path: plugin-repo
 
