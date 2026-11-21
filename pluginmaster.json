@@ -5,7 +5,7 @@
         "Punchline": "Another FFXIV mechanics simulator. Go to an inn and start practice.",
         "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
         "InternalName": "AnoMechFork",
-        "AssemblyVersion": "0.5.6.0",
+        "AssemblyVersion": "0.5.7.0",
         "RepoUrl": "https://github.com/Youkaimo/AnoTest3",
         "ApplicableVersion": "any",
         "Tags": [
@@ -27,7 +27,7 @@
         "DownloadLinkTesting": "https://github.com/Youkaimo/AnoTest3/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Youkaimo/AnoTest3/releases/latest/download/latest.zip",
         "DownloadCount": 6,
-        "LastUpdate": "1795240920"
+        "LastUpdate": "1795243833"
     },
     {
         "Author": "Anomek",
