@@ -26,7 +26,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Youkaimo/AnoTest3/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Youkaimo/AnoTest3/releases/latest/download/latest.zip",
-        "DownloadCount": 7,
+        "DownloadCount": 9,
         "LastUpdate": "1795346905"
     },
     {
@@ -56,7 +56,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
-        "DownloadCount": 1073,
+        "DownloadCount": 1075,
         "LastUpdate": "1782589111"
     },
     {
@@ -84,7 +84,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
-        "DownloadCount": 3049,
-        "LastUpdate": "1782586241"
+        "DownloadCount": 3064,
+        "LastUpdate": "1795853636"
     }
 ]
